@@ -1,5 +1,18 @@
 div{
     background-color: green;
     margin: 10px;
+    background-size: cover;
+    text-align: center;
+    text-size-adjust: 10px;
+    font: bolder;
+    padding: 10px;
     
+    
+}
+h3{
+    font-size:xx-large;
+    font: bolder;
+}
+p{
+    font: bolder;
 }
